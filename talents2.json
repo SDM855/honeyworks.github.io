@@ -5,103 +5,17 @@
         "description": "或许有护佑作用",
         "grade": 0
     },
-        "id": "1002",
-        "name": "红肚兜",
-        "description": "小时候死亡率降低",
-        "grade": 0
-    },
-        "id": "1003",
-        "name": "生而为男",
-        "description": "性别一定为男",
-        "grade": 1,
-        "exclusive": [
-            "1004",
-            "1025",
-            "1024",
-            1113
-        ]
-    },
-        "id": "1004",
-        "name": "生而为女",
-        "description": "性别一定为女",
-        "grade": 1,
-        "exclusive": [
-            "1003",
-            "1024",
-            "1025"
-        ]
-    },
     "1005": {
         "id": "1005",
         "name": "动漫高手",
         "description": "入宅的可能性翻6倍",
         "grade": 2
-    },
-        "id": "1006",
-        "name": "乐天派",
-        "description": "快乐+1",
-        "grade": 0,
-        "effect": {
-            "SPR": 1
-        }
-    },
     "1007": {
         "id": "1007",
         "name": "天赋异禀",
         "description": "初始可用属性点+2",
         "grade": 1,
         "status": 2
-    },
-        "id": "1008",
-        "name": "天生抑郁",
-        "description": "快乐-3",
-        "grade": 0,
-        "effect": {
-            "SPR": -3
-        }
-    },
-        "id": "1009",
-        "name": "网络巨魔",
-        "description": "快乐+2",
-        "grade": 1,
-        "effect": {
-            "SPR": 2
-        }
-    },
-        "id": "1010",
-        "name": "天龙人",
-        "description": "你拥有北京户口",
-        "grade": 2,
-        "exclusive": [
-            "1012",
-            "1013",
-            "1014"
-        ]
-    },
-        "id": "1011",
-        "name": "独生子女",
-        "description": "你没有兄弟姐妹",
-        "grade": 0
-    },
-        "id": "1012",
-        "name": "乡间微风",
-        "description": "你出生在农村",
-        "grade": 0,
-        "exclusive": [
-            "1010",
-            "1013",
-            "1014"
-        ]
-    },
-        "id": "1013",
-        "name": "城中高楼",
-        "description": "你出生在城市",
-        "grade": 0,
-        "exclusive": [
-            "1010",
-            "1012",
-            "1014"
-        ]
     },
     "1014": {
         "id": "1014",
@@ -116,21 +30,6 @@
             "1012",
             "1013"
         ]
-    },
-        "id": "1015",
-        "name": "家中老大",
-        "description": "你最受父母宠爱",
-        "grade": 1
-    },
-        "id": "1016",
-        "name": "水性良好",
-        "description": "不会被淹死",
-        "grade": 0
-    },
-        "id": "1017",
-        "name": "先天免疫",
-        "description": "你不会得艾滋病",
-        "grade": 0
     },
     "1018": {
         "id": "1018",
